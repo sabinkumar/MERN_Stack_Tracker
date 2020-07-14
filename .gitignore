@@ -1,0 +1,26 @@
+/Backups
+/backend/node_modules
+/backend/.env
+/mern-exercise-tracker/node_modules
+
+# dependencies
+/mern-exercise-tracker/node_modules
+/mern-exercise-tracker/.pnp
+/mern-exercise-tracker/.pnp.js
+
+# testing
+/mern-exercise-tracker/coverage
+
+# production
+/mern-exercise-tracker/build
+
+# misc
+/mern-exercise-tracker/.DS_Store
+/mern-exercise-tracker/.env.local
+/mern-exercise-tracker/.env.development.local
+/mern-exercise-tracker/.env.test.local
+/mern-exercise-tracker/.env.production.local
+
+/mern-exercise-tracker/npm-debug.log*
+/mern-exercise-tracker/yarn-debug.log*
+/mern-exercise-tracker/yarn-error.log*
